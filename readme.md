@@ -13,6 +13,7 @@ LICENSE: [MIT](./license.md)
 4. [git init](./init.md)
 5. [git config](./config.md)
 6. [git clone](./clone.md)
+7. [git status](./status.md)
 
 ---
 

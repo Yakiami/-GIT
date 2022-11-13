@@ -14,7 +14,9 @@ LICENSE: [MIT](./license.md)
 5. [git config](./config.md)
 6. [git clone](./clone.md)
 7. [git status](./status.md)
-
+8. [git remote](./remote.md)
+9. [git reset](./reset.md)
+10. [git checkout](./checkout.md)
 ---
 
 GIT logo by Jason Long. http://git-scm.com/downloads/logos, license:CC [BY 3.0](https://creativecommons.org/licenses/by/3.0/)
